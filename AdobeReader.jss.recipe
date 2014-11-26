@@ -68,7 +68,7 @@
                     </array>
                 </dict>
             </dict>
-            
+             <dict>
                 <key>Processor</key>
                 <string>JSSImporter</string>
             </dict>
