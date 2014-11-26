@@ -59,7 +59,7 @@
                     <array>
                         <dict>
                             <key>name</key>
-                            <string>AdobeFlashVersion</string>
+                            <string>AdobeReaderVersion</string>
                             <key>ext_attribute_path</key>
                             <string>%RECIPE_DIR%/AdobeReaderExtensionAttribute.xml</string>
                         </dict>
