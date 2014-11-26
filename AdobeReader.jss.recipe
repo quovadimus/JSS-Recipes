@@ -67,6 +67,7 @@
                         </dict>
                     </array>
                 </dict>
+            </dict>
             <dict>
             <key>Processor</key>
             <string>AdobeReaderRepackager</string>
