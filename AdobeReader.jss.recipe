@@ -67,6 +67,14 @@
                         </dict>
                     </array>
                 </dict>
+            <dict>
+            <key>Processor</key>
+            <string>AdobeReaderRepackager</string>
+            <key>Arguments</key>
+            <dict>
+                <key>dmg_path</key>
+                <string>%pathname%</string>
+            </dict>
                 <key>Processor</key>
                 <string>JSSImporter</string>
             </dict>
