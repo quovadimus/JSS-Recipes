@@ -66,10 +66,10 @@
                             <string>%RECIPE_DIR%/AdobeReaderExtensionAttribute.xml</string>
                         </dict>
                     </array>
-            <dict>
-                <key>Processor</key>
-                <string>JSSImporter</string>
-            </dict>
+                </dict>
+                    <key>Processor</key>
+                    <string>JSSImporter</string>
+                </dict>
         </array>
     </dict>
 </plist>
