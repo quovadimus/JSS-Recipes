@@ -9,7 +9,7 @@
 
 AdobeAIRVersion=$(defaults read /Library/Frameworks/Adobe\ AIR.framework/Versions/1.0/Resources/Info.plist CFBundleVersion)
 
-echo "&lt;result&gt;$AdobeAIRVersion&lt;/result&gt;"
+echo "<result>$AdobeAIRVersion</result>"
 
 exit 0</script>
     </input_type>
