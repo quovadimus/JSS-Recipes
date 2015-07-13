@@ -5,13 +5,13 @@
         <key>Description</key>
         <string>Checks for XCode update, packages, and adds to the JSS</string>
         <key>Identifier</key>
-        <string>com.github.sheagcraig.jss.XCode</string>
+        <string>com.github.ungerjm.jss.XCode-beta</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
             <string>XCode-beta</string>
             <key>CATEGORY</key>
-            <string>DeveloperTools</string>
+            <string>Developer Tools</string>
             <key>POLICY_CATEGORY</key>
             <string>Testing</string>
             <key>POLICY_TEMPLATE</key>
