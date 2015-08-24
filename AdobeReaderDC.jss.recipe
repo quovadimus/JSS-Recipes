@@ -19,14 +19,14 @@
             <key>ICON</key>
             <string>%RECIPE_DIR%/AdobeReaderDC.png</string>
             <key>GROUP_TEMPLATE</key>
-            <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+            <string>/SmartGroupTemplate.xml</string>
             <key>GROUP_NAME</key>
             <string>Needs Update %NAME%</string>
             <key>DESCRIPTION</key>
             <string>Adobe Reader DC is Adobe's official application for viewing, printing, and annotating PDF documents on OS X 10.9 and later.</string>
         </dict>
         <key>MinimumVersion</key>
-        <string>0.4.0</string>
+        <string>0.1.0</string>
         <key>ParentRecipe</key>
         <string>com.github.autopkg.pkg.AdobeReaderDC</string>
         <key>Process</key>
