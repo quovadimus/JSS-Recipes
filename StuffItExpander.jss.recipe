@@ -21,7 +21,7 @@
             <key>DESCRIPTION</key>
             <string>StuffIt Expander opens files created with WinZip®, 7zX, iShrink, SimplyRAR, Rarify, Rucksack (formerly iArchiver), BetterZip, RarMachine, GUI Tar, CleanArchiver, Springy, TarPit, RAR, Ez7z, Keka, and the compression utilities built into recent versions of Windows and Mac OS X.</string>
             <key>GROUP_NAME</key>
-            <string>%Needs Update %NAME%</string>
+            <string>Needs Update %NAME%</string>
             <key>GROUP_TEMPLATE</key>
             <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
         </dict>
