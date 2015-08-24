@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Downloads latest MS Office 2011 installer, , and uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.Office2011Updates</string>
+        <string>com.github.quovadimus.jss.Office2011Updates</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

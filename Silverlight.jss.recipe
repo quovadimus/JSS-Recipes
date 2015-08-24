@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Downloads latest Silverlight installer, copies the package to the build directory with an appended version number, and uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.Silverlight</string>
+        <string>com.github.quovadimus.jss.Silverlight</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

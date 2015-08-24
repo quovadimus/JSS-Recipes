@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Checks for XCode update, packages, and adds to the JSS</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.XCode-beta</string>
+        <string>com.github.quovadimus.jss.XCode-beta</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

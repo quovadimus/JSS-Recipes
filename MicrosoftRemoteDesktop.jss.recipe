@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Checks for Microsoft Remote Desktop update, packages, and adds to the JSS</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.MicrosoftRemoteDesktop</string>
+        <string>com.github.quovadimus.jss.MicrosoftRemoteDesktop</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>

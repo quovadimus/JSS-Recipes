@@ -35,7 +35,7 @@ Examples include 'en-US', 'de', 'ja-JP-mac', 'sv-SE', and 'zh-TW'
 No idea if all Firefox builds are available in all the same localizations, 
 so you may need to verify that any particular combination is offered. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.ungerjm.jss.FirefoxAutoconfig</string>
+	<string>com.github.quovadimus.jss.FirefoxAutoconfig</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

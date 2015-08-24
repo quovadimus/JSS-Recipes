@@ -11,7 +11,7 @@ To use this recipe, you must accept the Oracle Binary Code License Agreement for
 http://www.oracle.com/technetwork/java/javase/terms/license/index.html
  Then, uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.OracleJava8</string>
+        <string>com.github.quovadmius.jss.OracleJava8</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
