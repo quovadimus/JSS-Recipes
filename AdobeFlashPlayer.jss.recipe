@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Uses parent pkg recipe to download Adobe Flash Player installer and extracts the embedded package, uploads to JSS.</string>
         <key>Identifier</key>
-        <string>com.github.ungerjm.jss.FlashPlayer</string>
+        <string>com.github.quovadimus.jss.FlashPlayer</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
