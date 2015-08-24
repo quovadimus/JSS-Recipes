@@ -6,7 +6,7 @@
 	<string>Downloads updates for Adobe Acrobat Pro X or XI and imports them 
 into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.ungerjm.jss.AdobeAcrobatProXUpdate</string>
+	<string>com.github.quovadimus.jss.AdobeAcrobatProXUpdate</string>
 	<key>Input</key>
 	<dict>
 		<key>MAJOR_VERSION</key>
