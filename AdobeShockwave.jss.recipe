@@ -32,6 +32,8 @@
 		<string>Install_Shockwave</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string></string>
+		<key>package_info</key>
+		<string>Autopkgr Testing</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
