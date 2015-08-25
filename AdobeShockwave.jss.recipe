@@ -20,7 +20,7 @@
 		<string>Needs Update Shockwave</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>%RECIPE_DIR%/Templates/SmartGroupTemplate-Extension.xml</string>
-		<key>ICON</key>
+		<key>SELF_SERVICE_ICON</key>
 		<string>%RECIPE_DIR%/Shockwave.png</string>
 		<key>NAME</key>
 		<string>Adobe Shockwave Player</string>
@@ -30,6 +30,8 @@
 		<string>%RECIPE_DIR%/Templates/PolicyTemplate.xml</string>
 		<key>POLICY_TRIGGER</key>
 		<string>Install_Shockwave</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
+		<string></string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
