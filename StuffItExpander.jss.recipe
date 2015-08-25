@@ -24,6 +24,8 @@
             <string>Needs Update %NAME%</string>
             <key>GROUP_TEMPLATE</key>
             <string>SmartGroupTemplate.xml</string>
+            <key>package_info</key>
+			<string>Autopkgr Testing</string>
         </dict>
         <key>MinimumVersion</key>
         <string>0.2.0</string>
