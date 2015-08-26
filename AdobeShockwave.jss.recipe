@@ -73,7 +73,7 @@
 				<array>
 					<dict>
 						<key>ext_attribute_path</key>
-						<string>Adobe Shockwave Player ExtensionAttribute.xml</string>
+						<string>AdobeShockwavePlayer ExtensionAttribute.xml</string>
 					</dict>
 				</array>
 			</dict>
