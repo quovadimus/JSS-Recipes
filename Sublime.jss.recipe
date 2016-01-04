@@ -7,19 +7,21 @@
 	<key>Identifier</key>
 	<string>com.quovadimus.jss.SublimeText3</string>
 	<key>Input</key>
-	<dict>
+		<dict>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>POLICY_CATEGORY</key>
-    <string>Testing</string>
-    <key>POLICY_TEMPLATE</key>
-    <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
-    <key>ICON</key>
-    <string>%RECIPE_DIR%/Sublime.png</string>
-	  <key>GROUP_NAME</key>
-    <string>Needs Update %NAME%</string>
-    <key>GROUP_TEMPLATE</key>
-    <string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+    		<string>Testing</string>
+    		<key>POLICY_TEMPLATE</key>
+		 <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
+    		<key>ICON</key>
+    		<string>%RECIPE_DIR%/Sublime.png</string>
+	  	<key>GROUP_NAME</key>
+		<string>Needs Update %NAME%</string>
+    		<key>GROUP_TEMPLATE</key>
+    		<string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+    		<key>DESCRIPTION</key>
+        	<string>.</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.5</string>
@@ -32,8 +34,8 @@
         <dict>
            <key>prod_name</key>
            <string>%NAME%</string>
-           <key>jss_inventory_name</key>
-           <string>%JSS_INVENTORY_NAME%</string>
+           #<key>jss_inventory_name</key>
+           #<string>%JSS_INVENTORY_NAME%</string>
           <key>category</key>
           <string>%CATEGORY%</string>
           <key>policy_category</key>
