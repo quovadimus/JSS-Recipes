@@ -55,7 +55,8 @@
 				<string>anchor apple generic and identifier "org.incident57.codekit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = VZKSA7H9J9)</string>
 			</dict>
 			<key>Processor</key>
-			<string>DISABLE_CODE_SIGNATIURE_VERIFICATION</string>
+			<string>CodeSignatureVerifier</string>
+			<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
 			<true/>
 		</dict>
 		<dict>
