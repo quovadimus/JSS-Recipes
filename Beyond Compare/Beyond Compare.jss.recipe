@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Beyond Compare and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.BeyondCompare</string>
+	<string>com.github.quovadimus.jss.BeyondCompare</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
