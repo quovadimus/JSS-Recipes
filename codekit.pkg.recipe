@@ -59,8 +59,9 @@
 			<string>CodeSignatureVerifier</string>
 			<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
 			<true/>
-		</dict>
  -->
+		</dict>
+
 		<dict>
 			<key>Arguments</key>
 			<dict>
