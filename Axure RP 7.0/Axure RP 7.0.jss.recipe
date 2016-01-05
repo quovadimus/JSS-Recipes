@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Axure RP 7.0 and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.AxureRP7.0</string>
+	<string>com.github.quovadimus.jss.AxureRP7.0</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
