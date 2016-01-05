@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Faux Pas and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.FauxPas</string>
+	<string>com.github.quovadimus.jss.FauxPas</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
