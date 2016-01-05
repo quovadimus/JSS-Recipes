@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Reflector and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Reflector</string>
+	<string>com.github.quovadimus.jss.Reflector</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
