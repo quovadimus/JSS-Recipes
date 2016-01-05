@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of RubyMine and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.RubyMine</string>
+	<string>com.github.quovadimus.jss.RubyMine</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
