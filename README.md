@@ -16,7 +16,6 @@ Parent recipes come from the following repos, add them all with autopkg repo-add
 *  https://github.com/sheagcraig/jss-recipes<br>
 *  https://github.com/autopkg/justinrummel-recipes.git<br>
 *  https://github.com/autopkg/hansen-m-recipes.git<br>
-*  
 
 
 
