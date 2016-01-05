@@ -2,7 +2,7 @@ JSS-Recipes
 ===========
 
 
-Not yet ready for primtime recipes are listed under Test.
+Not yet ready for primetime recipes are listed under Test.
 
 
 These recipes are based upon those written by Shea Craig, built for use with the [jss-autopkg-addon](https://github.com/sheagcraig/jss-autopkg-addon/releases).
@@ -14,6 +14,9 @@ Parent recipes come from the following repos, add them all with autopkg repo-add
 *  https://github.com/autopkg/gregneagle-recipes<br>
 *  https://github.com/autopkg/sheagcraig-recipes<br>
 *  https://github.com/sheagcraig/jss-recipes<br>
+*  https://github.com/autopkg/justinrummel-recipes.git<br>
+*  https://github.com/autopkg/hansen-m-recipes.git<br>
+*  
 
 
 
