@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Uses parent pkg recipe to download latest Sublime Text and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.quovadimus.jss.sublimetext3</string>
+        <string>com.github.quovadimus.jss.SublimeText3</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
@@ -19,7 +19,7 @@
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
             <key>ICON</key>
-            <string>%RECIPE_DIR%/SublimeText.png</string>
+            <string>%RECIPE_DIR%/Sublime.png</string>
             <key>GROUP_NAME</key>
             <string>Needs Update %NAME%</string>
             <key>GROUP_TEMPLATE</key>
