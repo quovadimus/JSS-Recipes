@@ -28,10 +28,10 @@ latest/last version of Adobe Reader 10, but the repackager is unlikely to operat
     <array>
         <dict>
             <key>Processor</key>
-            <string>AdobeReaderRepackager</string>
+            <string>PkgCopier</string>
             <key>Arguments</key>
             <dict>
-                <key>dmg_path</key>
+                <key>source_pkg</key>
                 <string>%pathname%</string>
             </dict>
         </dict>
