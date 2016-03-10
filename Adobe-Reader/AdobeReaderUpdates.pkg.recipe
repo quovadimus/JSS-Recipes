@@ -9,7 +9,9 @@ latest/last version of Adobe Reader 10, but the repackager is unlikely to operat
 </string>
     <key>Identifier</key>
     <string>com.github.quovadimus.pkg.AdobeReaderUpdates</string>
-    
+    <key>Input</key>
+    <dict>
+	</dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
