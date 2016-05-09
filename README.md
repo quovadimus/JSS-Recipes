@@ -2,10 +2,12 @@ JSS-Recipes
 ===========
 
 
-Not yet ready for primetime recipes are listed under Test.
+Not yet ready for primetime recipes are listed under [Test](https://github.com/quovadimus/Test-Recipes).
 
 
-These recipes are based upon those written by Shea Craig, built for use with the [jss-autopkg-addon](https://github.com/sheagcraig/jss-autopkg-addon/releases).
+JSS recipes are based upon those written by Shea Craig, built for use with the [jss-autopkg-addon](https://github.com/sheagcraig/jss-autopkg-addon/releases).
+
+Custom recipes were made through the use of either [Recipe Robot](https://github.com/homebysix/recipe-robot) or a sophisicated system of trial & error, sometimes referred to as guessing.
 
 Parent recipes come from the following repos, add them all with autopkg repo-add
 
