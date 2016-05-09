@@ -5,13 +5,13 @@
     <key>Description</key>
     <string>Downloads latest OmniPlan disk image builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.quovadimus.pkg.OmniPlan</string>
+    <string>com.github.quovadimus.pkg.OmniPlan3</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>OmniPlan</string>
         <key>APPCAST_URL</key>
-        <string>https://www.omnigroup.com/download/latest/omniplan/</string>
+        <string>https://update.omnigroup.com/appcast/com.omnigroup.OmniPlan3</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
