@@ -13,7 +13,7 @@
 		<key>NAME</key>
 		<string>Cornerstone</string>
 		<key>SPARKLE_FEED_URL</key>
-		<string>http://www.zennaware.com/cornerstone/appcast/feed2.php</string>
+		<string>http://www.zennaware.com/cornerstone/appcast/feed3.php</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.5.0</string>
