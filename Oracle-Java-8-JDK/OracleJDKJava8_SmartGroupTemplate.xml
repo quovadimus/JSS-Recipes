@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><extensionAttribute>
+<displayName>Java Version - JDK</displayName>
+<description>Checks the installed version of Java&#13;
+&#13;</description>
+<dataType>string</dataType>
+<input_type>
+		<type>script</type>
+		<platform>Mac</platform>
+		<script>#!/bin/bash
+
+# Checks the installed version of Java
+if [[ `/usr/bin/find /Library/Java/JavaVirtualMachines -name "*.jdk" 2&gt; /dev/null` || `/usr/bin/find /System/Library/Java/JavaVirtualMachines -name "*.jdk" 2&gt; /dev/null` ]]
+	then result=`/usr/bin/java -version 2&gt;&amp;1 | grep "java" | awk '{ print substr($3, 2, length($3)-2); }'`
+	else result="not_installed"
+fi
+echo "&lt;result&gt;$result&lt;/result&gt;"</scriptContentsMac>
+
+</script>
+	</input_type>
+	<inventory_display>Extension Attributes</inventory_display>
+	<recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>
