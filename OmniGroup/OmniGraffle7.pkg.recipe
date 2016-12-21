@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest OmniGraffle 7 disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.quovadimus.pkg.omnigraffle7</string>
+    <string>com.github.quovadimus.pkg.OmniGraffle7</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.quovadimus.download.omnigraffle7</string>
+    <string>com.github.quovadimus.download.OmniGraffle7</string>
     <key>Process</key>
     <array>
         <dict>
