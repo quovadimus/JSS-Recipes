@@ -17,7 +17,7 @@
 		<key>NAME</key>
 		<string>OmniGraffle7</string>
 		<key>OS_REQUIREMENTS</key>
-		<string>10.11.x,10.10.x</string>
+		<string></string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.quovadimus.pkg.omnigraffle7</string>
+	<string>com.github.quovadimus.pkg.OmniGraffle7</string>
 	<key>Process</key>
 	<array>
 		<dict>
